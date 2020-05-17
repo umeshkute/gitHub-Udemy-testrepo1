@@ -1,1 +1,3 @@
 this is first code file
+
+I'm QA engineer and learning the git basics
