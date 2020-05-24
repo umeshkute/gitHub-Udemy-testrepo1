@@ -1,0 +1,1 @@
+A new file added - sample test 6 to check the switching between branches
